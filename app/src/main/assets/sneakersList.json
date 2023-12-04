@@ -1,0 +1,316 @@
+{
+  "sneakers": [
+    {
+      "id": "1",
+      "name": "Nike Air Max 90",
+      "releaseYear": 2021,
+      "retailPrice": 90,
+      "description": "The Nike Air Max 90 is a retro running shoe with Max Air® in the heel for comfort and cushioning. Leather or canvas upper combines with a polyurethane midsole and a durable rubber outsole for comfort, support and durability. The style comes with multiple lace colors.",
+      "brand": "Nike",
+      "category": "Sneakers",
+      "color": [
+        "red",
+        "blue",
+        "green",
+        "yellow"
+      ],
+      "size": [
+        "7",
+        "8",
+        "10",
+        "11"
+      ],
+      "media": {
+        "imageUrl": "https://assets.ajio.com/medias/sys_master/root/20220722/45qG/62dadcc5f997dd03e2ec010e/-473Wx593H-460953277-white-MODEL.jpg",
+        "smallImageUrl": "string",
+        "thumbUrl": "string"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "2",
+      "name": "Sparx 200",
+      "retailPrice": 120,
+      "releaseYear": 2020,
+      "description": "The Nike Air Max 90 is a retro running shoe with Max Air® in the heel for comfort and cushioning. Leather or canvas upper combines with a polyurethane midsole and a durable rubber outsole for comfort, support and durability. The style comes with multiple lace colors.",
+      "brand": "Nike",
+      "category": "Sneakers",
+      "color": [
+        "red",
+        "blue",
+        "green",
+        "yellow"
+      ],
+      "size": [
+        "7",
+        "8",
+        "10",
+        "11"
+      ],
+      "media": {
+        "imageUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a4f65de67f4e40b8997aac64010d810e_9366/Stan_Smith_Shoes_White_G58184_01_standard.jpg",
+        "smallImageUrl": "string",
+        "thumbUrl": "string"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "3",
+      "name": "Adidas Neo",
+      "retailPrice": 100,
+      "releaseYear": 2023,
+      "description": "The Nike Air Max 90 is a retro running shoe with Max Air® in the heel for comfort and cushioning. Leather or canvas upper combines with a polyurethane midsole and a durable rubber outsole for comfort, support and durability. The style comes with multiple lace colors.",
+      "brand": "Nike",
+      "category": "Sneakers",
+      "color": [
+        "red",
+        "blue",
+        "green",
+        "yellow"
+      ],
+      "size": [
+        "7",
+        "8",
+        "10",
+        "11"
+      ],
+      "media": {
+        "imageUrl": "https://img.freepik.com/free-photo/fashion-shoes-sneakers_1203-7529.jpg?size=626&ext=jpg",
+        "smallImageUrl": "string",
+        "thumbUrl": "string"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "4",
+      "name": "Adidas Neo",
+      "retailPrice": 200,
+      "releaseYear": 2018,
+      "description": "The Nike Air Max 90 is a retro running shoe with Max Air® in the heel for comfort and cushioning. Leather or canvas upper combines with a polyurethane midsole and a durable rubber outsole for comfort, support and durability. The style comes with multiple lace colors.",
+      "brand": "Nike",
+      "category": "Sneakers",
+      "color": [
+        "blue",
+        "green",
+        "yellow"
+      ],
+      "size": [
+        "7",
+        "8",
+        "11"
+      ],
+      "media": {
+        "imageUrl": "https://media.istockphoto.com/id/956501428/photo/sport-shoes-on-isolated-white-background.jpg?s=612x612&w=0&k=20&c=BdklqnfGUvf02-2CxYsw-AnrbE3e-B5zhE9JQILEEW4=",
+        "smallImageUrl": "string",
+        "thumbUrl": "string"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "5",
+      "name": "Adidas Neo",
+      "retailPrice": 70,
+      "releaseYear": 2017,
+      "description": "The Nike Air Max 90 is a retro running shoe with Max Air® in the heel for comfort and cushioning. Leather or canvas upper combines with a polyurethane midsole and a durable rubber outsole for comfort, support and durability. The style comes with multiple lace colors.",
+      "brand": "Nike",
+      "category": "Sneakers",
+      "color": [
+        "blue",
+        "green",
+        "yellow"
+      ],
+      "size": [
+        "7",
+        "9",
+        "11"
+      ],
+      "media": {
+        "imageUrl": "https://media.istockphoto.com/id/547128210/photo/sneakers.jpg?s=612x612&w=0&k=20&c=m3eNhAz_M-3P49MDp-0V8HP3hnQLQTcghbcMuxTsqHw=",
+        "smallImageUrl": "string",
+        "thumbUrl": "string"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "6",
+      "name": "Adidas Neo",
+      "retailPrice": 70,
+      "releaseYear": 2017,
+      "description": "The Nike Air Max 90 is a retro running shoe with Max Air® in the heel for comfort and cushioning. Leather or canvas upper combines with a polyurethane midsole and a durable rubber outsole for comfort, support and durability. The style comes with multiple lace colors.",
+      "brand": "Nike",
+      "category": "Sneakers",
+      "color": [
+        "red",
+        "green",
+        "yellow"
+      ],
+      "size": [
+        "7",
+        "9",
+        "10"
+      ],
+      "media": {
+        "imageUrl": "https://media.istockphoto.com/id/1059018692/vector/white-shoes-illustration.jpg?s=612x612&w=0&k=20&c=XHB8upFFx-sbQvAy3lKrvBJ9egbIX82SCZpUZwexoVg=",
+        "smallImageUrl": "string",
+        "thumbUrl": "string"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "7",
+      "name": "Nike Air Max 90",
+      "releaseYear": 2021,
+      "retailPrice": 90,
+      "description": "The Nike Air Max 90 is a retro running shoe with Max Air® in the heel for comfort and cushioning. Leather or canvas upper combines with a polyurethane midsole and a durable rubber outsole for comfort, support and durability. The style comes with multiple lace colors.",
+      "brand": "Nike",
+      "category": "Sneakers",
+      "color": [
+        "red",
+        "blue",
+        "green",
+        "yellow"
+      ],
+      "size": [
+        "7",
+        "8",
+        "10",
+        "11"
+      ],
+      "media": {
+        "imageUrl": "https://assets.ajio.com/medias/sys_master/root/20220722/45qG/62dadcc5f997dd03e2ec010e/-473Wx593H-460953277-white-MODEL.jpg",
+        "smallImageUrl": "string",
+        "thumbUrl": "string"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "8",
+      "name": "Sparx 200",
+      "retailPrice": 120,
+      "releaseYear": 2020,
+      "description": "The Nike Air Max 90 is a retro running shoe with Max Air® in the heel for comfort and cushioning. Leather or canvas upper combines with a polyurethane midsole and a durable rubber outsole for comfort, support and durability. The style comes with multiple lace colors.",
+      "brand": "Nike",
+      "category": "Sneakers",
+      "color": [
+        "red",
+        "blue",
+        "green",
+        "yellow"
+      ],
+      "size": [
+        "7",
+        "8",
+        "10",
+        "11"
+      ],
+      "media": {
+        "imageUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a4f65de67f4e40b8997aac64010d810e_9366/Stan_Smith_Shoes_White_G58184_01_standard.jpg",
+        "smallImageUrl": "string",
+        "thumbUrl": "string"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "9",
+      "name": "Adidas Neo",
+      "retailPrice": 100,
+      "releaseYear": 2023,
+      "description": "The Nike Air Max 90 is a retro running shoe with Max Air® in the heel for comfort and cushioning. Leather or canvas upper combines with a polyurethane midsole and a durable rubber outsole for comfort, support and durability. The style comes with multiple lace colors.",
+      "brand": "Nike",
+      "category": "Sneakers",
+      "color": [
+        "red",
+        "blue",
+        "green",
+        "yellow"
+      ],
+      "size": [
+        "7",
+        "8",
+        "10",
+        "11"
+      ],
+      "media": {
+        "imageUrl": "https://img.freepik.com/free-photo/fashion-shoes-sneakers_1203-7529.jpg?size=626&ext=jpg",
+        "smallImageUrl": "string",
+        "thumbUrl": "string"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "10",
+      "name": "Adidas Neo",
+      "retailPrice": 200,
+      "releaseYear": 2018,
+      "description": "The Nike Air Max 90 is a retro running shoe with Max Air® in the heel for comfort and cushioning. Leather or canvas upper combines with a polyurethane midsole and a durable rubber outsole for comfort, support and durability. The style comes with multiple lace colors.",
+      "brand": "Nike",
+      "category": "Sneakers",
+      "color": [
+        "blue",
+        "green",
+        "yellow"
+      ],
+      "size": [
+        "7",
+        "8",
+        "11"
+      ],
+      "media": {
+        "imageUrl": "https://media.istockphoto.com/id/956501428/photo/sport-shoes-on-isolated-white-background.jpg?s=612x612&w=0&k=20&c=BdklqnfGUvf02-2CxYsw-AnrbE3e-B5zhE9JQILEEW4=",
+        "smallImageUrl": "string",
+        "thumbUrl": "string"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "11",
+      "name": "Adidas Neo",
+      "retailPrice": 70,
+      "releaseYear": 2017,
+      "description": "The Nike Air Max 90 is a retro running shoe with Max Air® in the heel for comfort and cushioning. Leather or canvas upper combines with a polyurethane midsole and a durable rubber outsole for comfort, support and durability. The style comes with multiple lace colors.",
+      "brand": "Nike",
+      "category": "Sneakers",
+      "color": [
+        "blue",
+        "green",
+        "yellow"
+      ],
+      "size": [
+        "7",
+        "9",
+        "11"
+      ],
+      "media": {
+        "imageUrl": "https://media.istockphoto.com/id/547128210/photo/sneakers.jpg?s=612x612&w=0&k=20&c=m3eNhAz_M-3P49MDp-0V8HP3hnQLQTcghbcMuxTsqHw=",
+        "smallImageUrl": "string",
+        "thumbUrl": "string"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "12",
+      "name": "Adidas Neo",
+      "retailPrice": 70,
+      "releaseYear": 2017,
+      "description": "The Nike Air Max 90 is a retro running shoe with Max Air® in the heel for comfort and cushioning. Leather or canvas upper combines with a polyurethane midsole and a durable rubber outsole for comfort, support and durability. The style comes with multiple lace colors.",
+      "brand": "Nike",
+      "category": "Sneakers",
+      "color": [
+        "red",
+        "green",
+        "yellow"
+      ],
+      "size": [
+        "7",
+        "9",
+        "10"
+      ],
+      "media": {
+        "imageUrl": "https://media.istockphoto.com/id/1059018692/vector/white-shoes-illustration.jpg?s=612x612&w=0&k=20&c=XHB8upFFx-sbQvAy3lKrvBJ9egbIX82SCZpUZwexoVg=",
+        "smallImageUrl": "string",
+        "thumbUrl": "string"
+      },
+      "quantity": 1
+    }
+  ]
+}
