@@ -42,13 +42,6 @@ Sneakers App is an Android application developed in Kotlin that allows users to 
 
 The app follows the MVVM (Model-View-ViewModel) architecture, ensuring a clean and scalable codebase.
 
-## Screenshots
-
-![Screenshot 1](C:\Users\Samir Sayyed\Desktop\home_new.png)
-![Screenshot 2](C:\Users\Samir Sayyed\Desktop\detail.png)
-![Screenshot 2](C:\Users\Samir Sayyed\Desktop\cart.png)
-
-
 ## Installation
 
 1. Clone the repository:
